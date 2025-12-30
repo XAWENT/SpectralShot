@@ -1,0 +1,2 @@
+execute as @a if score @s lazer_gun.cooldown matches 1.. run scoreboard players remove @s lazer_gun.cooldown 1
+execute as @a if score @s lazer_gun.heat matches 1.. run scoreboard players remove @s lazer_gun.heat 1

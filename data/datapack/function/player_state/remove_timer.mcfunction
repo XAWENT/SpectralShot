@@ -1,0 +1,1 @@
+execute at @s[level=1..] run experience add @s -1 levels

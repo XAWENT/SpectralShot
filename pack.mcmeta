@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"description": "by XAWENT",
+		"min_format": 71,
+		"max_format": 88,
+		"pack_format": 71,
+		"supported_formats": [
+			71,
+			88
+		]
+	}
+}
