@@ -13,3 +13,4 @@ execute as @a[tag=death] if score @s death.timer matches 1.. as @s run title @s 
 execute as @a[tag=death] if score @s death.timer matches 1.. as @s run title @s subtitle ["",{"score":{"name":"@s","objective":"death.timer.second"},"color":"dark_red"},{"text":"s","color":"dark_red"}]
 execute as @a[tag=death] if score @s death.timer matches 1.. run scoreboard objectives remove const.tick
 execute as @a[tag=death] if score @s death.timer matches 1.. run scoreboard objectives remove death.timer.second
+

@@ -22,3 +22,7 @@ team modify Red color red
 team modify Blue color blue
 
 team modify Green color green
+
+title @a times 0 10 0
+
+scoreboard objectives add platform.flag dummy

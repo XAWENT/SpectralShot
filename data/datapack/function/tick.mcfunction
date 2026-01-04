@@ -9,3 +9,4 @@ execute as @a as @s run attribute @s minecraft:jump_strength base set 0.55
 #0.41999998688697815
 function datapack:player_state/death_marker_tick
 function datapack:player_state/kills_manager
+function datapack:location/tick_locations

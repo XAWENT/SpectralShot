@@ -1,0 +1,1 @@
+function datapack:location/platform/tick_platform
